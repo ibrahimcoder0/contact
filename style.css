@@ -1,0 +1,84 @@
+body {
+	font-family: arial;
+	transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+}
+.content-one {
+    width: 700px;
+    margin: 0 auto;
+}
+.header-one{
+    background: url(m3lRbCCA_o.jpg);
+    color: white;
+    padding: 40px;
+    background-position: top center;
+}
+.header-one h1 {
+    font-weight: 100;
+    border-bottom: 1px solid White;
+    padding-bottom: 19px;
+}
+.header-one h3 {
+    font-weight: 100;
+}
+.contact-form{
+    background-color: cadetblue;
+    padding: 51px 44px;
+}
+.contact-input{
+    display: flex;
+    margin-bottom: 30px;
+}
+level{
+    margin-right: 30px;
+    margin-top: 5px;
+    width: 30%;
+    text-align: right;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black; color: powderblue;
+}
+.icon{
+    background: #EFEFED;
+    color: black;
+    width: 40px;
+    border: 2px solid #dbdbdb;
+    border-right: none;
+    text-align: center;
+    padding: 7px;
+}
+.input-one{
+    padding: 3px 10px;
+    border: 2px solid #dbdbdb;
+    width: 70%;
+}
+.check-one{
+    margin: 0px 15px;
+}
+.button{
+    text-align: center;
+}
+.button-one{
+    color: white;
+    background-color: red;
+    padding: 9px 25px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 3px 3px 4px black;
+    width: 250px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.button-one:hover{
+    background-color: #1E90FF;
+}
+.city{
+    margin-left: -6px;
+}
+.gender{
+    margin-left: -30px;
+}
+.service{
+    margin-left: -26px;
+}
